@@ -1,3 +1,15 @@
+
+# To Run :
+### main program 
+python main.py 
+
+### Server 
+uvicorn myserver:app --reload
+and then http://localhost:8000/docs
+
+### Dependenceis and versions  are in:
+rerequirements_s.txt
+
 # Cloudvisor Exercise
 #### INTRO
 Your mission, should you choose to accept it, involves the development of two functions.
