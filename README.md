@@ -1,5 +1,8 @@
 
 # To Run :
+## The new ETL lugi implementation run:
+python ec2_scrapper_luigi.py
+
 ### main program 
 python main.py 
 
