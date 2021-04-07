@@ -12,3 +12,8 @@ six==1.15.0
 starlette==0.13.6
 typing-extensions==3.7.4.3
 urllib3==1.26.4
+bson==0.5.10
+luigi==3.0.2
+uvicorn==0.11.8
+uvloop==0.14.0
+aiohttp==3.6.2
